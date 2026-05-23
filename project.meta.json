@@ -1,0 +1,53 @@
+﻿{
+    "$schema":  "../project.meta.schema.json",
+    "schemaVersion":  1,
+    "name":  "local_sts",
+    "title":  "Real-Time Speech Translation System 🎙️🌐🔊",
+    "kind":  "git-repository",
+    "status":  "unknown",
+    "category":  "workspace-folder",
+    "description":  "A high-quality workspace folder project named Local Sts, built using various technologies and focused on workspace folder concepts with rich metadata.",
+    "tags":  [
+                 "workspace-folder"
+             ],
+    "priority":  "unset",
+    "owner":  "",
+    "paths":  {
+                  "relative":  "local_sts",
+                  "absolute":  "F:\\learnbydoingwithsteven\\local_sts"
+              },
+    "repo":  {
+                 "hasGit":  true,
+                 "remote":  "https://github.com/learnbydoingwithsteven/local_sts.git"
+             },
+    "stack":  [
+
+              ],
+    "entrypoints":  {
+                        "readme":  "README.md"
+                    },
+    "signals":  {
+                    "hasReadme":  true,
+                    "hasPackageJson":  false,
+                    "hasIndexHtml":  false,
+                    "hasViteConfig":  false,
+                    "hasNextConfig":  false,
+                    "hasPython":  false,
+                    "hasNotebooks":  false
+                },
+    "children":  {
+                     "count":  4,
+                     "immediateProjectSignalCount":  4
+                 },
+    "activity":  {
+                     "lastModifiedLocal":  "2026-05-11T22:41:09",
+                     "inferredActivity":  "hot"
+                 },
+    "notes":  "",
+    "metadata":  {
+                     "generated":  true,
+                     "generatedAt":  "2026-05-23T10:55:25Z",
+                     "generatedBy":  "tools/update_project_metadata.ps1",
+                     "confidence":  "inferred"
+                 }
+}
