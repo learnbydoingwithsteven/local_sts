@@ -1,0 +1,86 @@
+﻿{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-05-23T11:36:51Z",
+    "generatedBy":  "tools/update_project_metadata.ps1",
+    "workspace":  {
+                      "root":  "F:\\learnbydoingwithsteven",
+                      "scopeRoot":  "F:\\learnbydoingwithsteven\\local_sts",
+                      "scopeRelativePath":  "local_sts",
+                      "folderCount":  4
+                  },
+    "totals":  {
+                   "gitRepositories":  0,
+                   "projectFolders":  1,
+                   "workspaceFolders":  3,
+                   "archiveOrOutput":  0
+               },
+    "projects":  [
+                     {
+                         "name":  "backend",
+                         "title":  "Backend",
+                         "kind":  "workspace-folder",
+                         "status":  "unknown",
+                         "category":  "workspace-folder",
+                         "tags":  [
+                                      "workspace-folder"
+                                  ],
+                         "relativePath":  "local_sts/backend",
+                         "stack":  [
+                                       "python"
+                                   ],
+                         "childProjectSignals":  0,
+                         "inferredActivity":  "hot"
+                     },
+                     {
+                         "name":  "frontend",
+                         "title":  "Frontend",
+                         "kind":  "project-folder",
+                         "status":  "unknown",
+                         "category":  "web-product",
+                         "tags":  [
+                                      "web-product",
+                                      "web"
+                                  ],
+                         "relativePath":  "local_sts/frontend",
+                         "stack":  [
+                                       "node",
+                                       "vite",
+                                       "static-html"
+                                   ],
+                         "childProjectSignals":  0,
+                         "inferredActivity":  "hot"
+                     },
+                     {
+                         "name":  "logs",
+                         "title":  "Logs",
+                         "kind":  "workspace-folder",
+                         "status":  "unknown",
+                         "category":  "workspace-folder",
+                         "tags":  [
+                                      "workspace-folder"
+                                  ],
+                         "relativePath":  "local_sts/logs",
+                         "stack":  [
+
+                                   ],
+                         "childProjectSignals":  0,
+                         "inferredActivity":  "hot"
+                     },
+                     {
+                         "name":  "tmp",
+                         "title":  "Tmp",
+                         "kind":  "workspace-folder",
+                         "status":  "unknown",
+                         "category":  "workspace-folder",
+                         "tags":  [
+                                      "workspace-folder"
+                                  ],
+                         "relativePath":  "local_sts/tmp",
+                         "stack":  [
+
+                                   ],
+                         "childProjectSignals":  0,
+                         "inferredActivity":  "hot"
+                     }
+                 ]
+}

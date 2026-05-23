@@ -1,43 +1,43 @@
 ﻿{
-    "$schema":  "../project.meta.schema.json",
+    "$schema":  "../../project.meta.schema.json",
     "schemaVersion":  1,
-    "name":  "local_sts",
-    "title":  "Real-Time Speech Translation System 🎙️🌐🔊",
-    "kind":  "git-repository",
+    "name":  "backend",
+    "title":  "Backend",
+    "kind":  "workspace-folder",
     "status":  "unknown",
     "category":  "workspace-folder",
-    "description":  "A high-quality workspace folder project named Local Sts, built using various technologies and focused on workspace folder concepts with rich metadata.",
+    "description":  "",
     "tags":  [
                  "workspace-folder"
              ],
     "priority":  "unset",
     "owner":  "",
     "paths":  {
-                  "relative":  "local_sts",
-                  "absolute":  "F:\\learnbydoingwithsteven\\local_sts"
+                  "relative":  "local_sts/backend",
+                  "absolute":  "F:\\learnbydoingwithsteven\\local_sts\\backend"
               },
     "repo":  {
-                 "hasGit":  true,
-                 "remote":  "https://github.com/learnbydoingwithsteven/local_sts.git"
+                 "hasGit":  false,
+                 "remote":  null
              },
     "stack":  [
-
+                  "python"
               ],
     "entrypoints":  {
-                        "readme":  "README.md"
+
                     },
     "signals":  {
-                    "hasReadme":  true,
+                    "hasReadme":  false,
                     "hasPackageJson":  false,
                     "hasIndexHtml":  false,
                     "hasViteConfig":  false,
                     "hasNextConfig":  false,
-                    "hasPython":  false,
+                    "hasPython":  true,
                     "hasNotebooks":  false
                 },
     "children":  {
-                     "count":  4,
-                     "immediateProjectSignalCount":  4
+                     "count":  5,
+                     "immediateProjectSignalCount":  0
                  },
     "activity":  {
                      "lastModifiedLocal":  "2026-05-11T22:41:09",
@@ -46,7 +46,7 @@
     "notes":  "",
     "metadata":  {
                      "generated":  true,
-                     "generatedAt":  "2026-05-23T11:37:06Z",
+                     "generatedAt":  "2026-05-23T11:36:51Z",
                      "generatedBy":  "tools/update_project_metadata.ps1",
                      "confidence":  "inferred"
                  }
